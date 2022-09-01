@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TP02_ED2
+build_property.ProjectDir = C:\Users\aluno\Source\Repos\ED1I4-Atividade-das-aulas-de-24-08-2022-e-26-08-2022\TP02_ED2\
